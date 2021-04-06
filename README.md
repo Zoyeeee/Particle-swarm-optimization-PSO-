@@ -120,3 +120,6 @@ function p_webest=webest(N,p_webest,p_mybest,D)
 end
 %%
 ```
+结果:
+------
+![结果](https://user-images.githubusercontent.com/74950715/113649475-14fe5980-96c1-11eb-802b-7e1983157c17.jpg)
